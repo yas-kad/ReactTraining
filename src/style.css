@@ -1,0 +1,76 @@
+.container {
+    margin-top: 10px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+label {
+    margin-left: 10px;
+}
+
+.navbar .yk:hover {
+    background-color: #0d6efd;
+    border-radius: 20px;
+    color: white;
+}
+
+.navitems li:hover {
+    background-color:#0d6efd;
+    border-radius: 0.25rem;
+}
+
+.navitems .nav-item .nav-link:hover {
+    color: white;
+}
+
+.social-list img {
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    display: block;
+}
+.lista {
+    display: flex;
+}
+
+.card .cardimg {
+    max-width: 100%;
+    /* width: 200px;
+    height: 200px; */
+    /* justify-content: center; */
+}
+
+.card .card-body h2{
+    text-align: center;
+    color:darkred
+}
+
+.card .card-body .fb-icon {
+    height: 20px;
+    width: 20px;
+    border-radius: 20px;
+    margin-right: 50px;
+}
+/* .listcard {
+    display:flex;
+} */
+
+.card .card-body p{
+    margin-bottom: 0%;
+}
+
+/* .listcard p {
+    padding-left: 2px;
+    margin-bottom: 0px;
+} */
+
+.listsocial {
+    display: flex;
+    justify-content: center;
+}
+
+.row .col {
+    margin-top: 10px;
+}
